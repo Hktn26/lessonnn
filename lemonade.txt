@@ -1,0 +1,31 @@
+git --version = Hangi versiyonu oldugunu bakiyor
+git version
+
+git config --global user.name <isim> = kullanici adi koyma
+
+git config --list = su anki mevcut konfigrasyonu gorme
+
+git config --global user.email <'email'> = email adresimiz
+
+git init 
+
+git status
+
+git add
+
+git status 
+
+Degisiklik
+
+git add
+
+git status
+
+
+
+
+
+
+Limonata:
+1.Limon
+2.Su
